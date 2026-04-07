@@ -32,7 +32,9 @@ Install required library:
 ---
 
 ## ▶️ How to Run
+
 python Analyzer-python.py
+
 ---
 
 ## 📸 Menu Preview
